@@ -1,0 +1,1 @@
+2023-01-10 09:55:22 INFO  Calcola:10 Canale stampato:2
