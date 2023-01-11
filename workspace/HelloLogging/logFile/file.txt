@@ -1,0 +1,4 @@
+2023-01-09 15:07:03 FATAL HelloExample:31 - This is fatal : Trying
+2023-01-09 15:07:03 FATAL HelloExample:15 - This is fatal : 
+2023-01-09 15:07:49 FATAL HelloExample:31 - This is fatal : Trying
+2023-01-09 15:07:49 FATAL HelloExample:15 - This is fatal : 
