@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="it.sabafed.junit.calcolatrice.sottrazioneTest.SottrazioneDoubleTest" time="0.006" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="it.sabafed.junit.calcolatrice.sottrazioneTest.SottrazioneDoubleTest" time="0.003" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="19"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -16,7 +16,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="C:\Users\sabafe\Documents\Pattaforme per lo Sviluppo di Applicazioni Web - parte 3\sts-4.17.0.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_19.0.1.v20221102-1007\jre\bin"/>
-    <property name="sun.java.command" value="C:\Users\sabafe\AppData\Local\Temp\surefire10491210443752912725\surefirebooter-20230110172627501_3.jar C:\Users\sabafe\AppData\Local\Temp\surefire10491210443752912725 2023-01-10T17-26-26_844-jvmRun1 surefire-20230110172627501_1tmp surefire_0-20230110172627501_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\sabafe\AppData\Local\Temp\surefire6219429398635517654\surefirebooter-20230111101258090_3.jar C:\Users\sabafe\AppData\Local\Temp\surefire6219429398635517654 2023-01-11T10-12-56_681-jvmRun1 surefire-20230111101258090_1tmp surefire_0-20230111101258090_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\sabafe\Documents\Code Analysis, Secure Code, testing and troubleshooting\esercitazione\workspace\it.sabafed.junit.calcolatrice\target\test-classes;C:\Users\sabafe\Documents\Code Analysis, Secure Code, testing and troubleshooting\esercitazione\workspace\it.sabafed.junit.calcolatrice\target\classes;C:\Users\sabafe\.m2\repository\org\junit\jupiter\junit-jupiter\5.9.1\junit-jupiter-5.9.1.jar;C:\Users\sabafe\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.9.1\junit-jupiter-api-5.9.1.jar;C:\Users\sabafe\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\sabafe\.m2\repository\org\junit\platform\junit-platform-commons\1.9.1\junit-platform-commons-1.9.1.jar;C:\Users\sabafe\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\sabafe\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.9.1\junit-jupiter-params-5.9.1.jar;C:\Users\sabafe\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.9.1\junit-jupiter-engine-5.9.1.jar;C:\Users\sabafe\.m2\repository\org\junit\platform\junit-platform-engine\1.9.1\junit-platform-engine-1.9.1.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -32,7 +32,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\sabafe\AppData\Local\Temp\surefire10491210443752912725\surefirebooter-20230110172627501_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\sabafe\AppData\Local\Temp\surefire6219429398635517654\surefirebooter-20230111101258090_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="19.0.1+10"/>
@@ -62,5 +62,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="63.0"/>
   </properties>
-  <testcase name="sottrazioneDoubleTest" classname="it.sabafed.junit.calcolatrice.sottrazioneTest.SottrazioneDoubleTest" time="0.003"/>
+  <testcase name="sottrazioneDoubleTest" classname="it.sabafed.junit.calcolatrice.sottrazioneTest.SottrazioneDoubleTest" time="0.001"/>
 </testsuite>
