@@ -10,7 +10,7 @@ import it.sabafed.junit.calcolatrice.Calcolatrice;
 public class DivisioneDoubleTest {
 
 	@Test
-	void sommaDoubleTest() {
+	void divisioneDoubleTest() {
 		double a = 1.0;
 		double b = 2.0;
 		double div = a/b;
@@ -26,6 +26,5 @@ public class DivisioneDoubleTest {
 	                        () -> calcolatrice.divisione(a,0.0));
 		
 		assertEquals("Division by zero", illegalArgumentException.getMessage());
-		
 	}
 }

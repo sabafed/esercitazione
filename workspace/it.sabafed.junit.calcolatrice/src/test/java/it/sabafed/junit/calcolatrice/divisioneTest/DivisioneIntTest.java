@@ -9,7 +9,7 @@ import it.sabafed.junit.calcolatrice.Calcolatrice;
 
 public class DivisioneIntTest {
 	@Test
-	void sommaDoubleTest() {
+	void divisioneIntTest() {
 		int a = 1;
 		int b = 2;
 		double div = a/b;

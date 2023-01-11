@@ -10,7 +10,7 @@ import it.sabafed.junit.calcolatrice.Calcolatrice;
 public class MediaIntTest {
 
 	@Test
-	void potenzaDoubleTest() {
+	void mediaIntTest() {
 		int a = 1;
 		int b = 2;
 		int c = 3;
@@ -32,6 +32,5 @@ public class MediaIntTest {
 						() -> calcolatrice.media(empty));
 		
 		assertEquals("Division by zero", illegalArgumentException.getMessage());
-		
 	}
 }

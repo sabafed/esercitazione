@@ -33,6 +33,5 @@ public class MediaDoubleTest {
 	                        () -> calcolatrice.media(empty));
 		
 		assertEquals("Division by zero", illegalArgumentException.getMessage());
-		
 	}
 }
